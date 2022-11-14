@@ -18,3 +18,5 @@ Muliplayer:
 		- add chat feature to the game
 Others:
     - update to newest three.js version
+    
+    ![alt text]([https://ibb.co/qs9YQYf](https://i.ibb.co/gTwZKZp/shrek3dmultiplayer.png))
